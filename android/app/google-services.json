@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81924856978",
+    "project_id": "chta-89fb4",
+    "storage_bucket": "chta-89fb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81924856978:android:5382467ddb96767e7f9a4b",
+        "android_client_info": {
+          "package_name": "com.chta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDloGsLfDLyodBSMP9ynsBdk_NoEUzY3u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
